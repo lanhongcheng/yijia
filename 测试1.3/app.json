@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/start/start",
+    "pages/page1/page1",
+    "pages/wifi_station/tianqi/tianqi"
+  ],
+    "window": {
+      "backgroundTextStyle": "light",
+      "navigationBarBackgroundColor": "#6495ED",
+      "navigationBarTitleText": "随心天气",
+      "navigationBarTextStyle": "black"
+    },
+
+"permission": {
+  "scope.userLocation": {
+    "desc": "请点击确定"
+  }
+},
+
+  "tabBar": {
+    "color": "#8a8a8a",
+    "selectedColor": "#1296db",
+    "backgroundColor": "",
+    "position": "bottom",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/start/start",
+        "text": "首页",
+        "iconPath": "icons/zhuomian.png",
+        "selectedIconPath": "icons/zhuomian1.png"
+      },
+      {
+        "pagePath": "pages/page1/page1",
+        "text": "天气",
+        "iconPath": "icons/tianqi.png",
+        "selectedIconPath": "icons/tianqi1.png"
+      },
+     
+      {
+        "pagePath": "pages/wifi_station/tianqi/tianqi",
+        "text": "表格",
+        "iconPath": "icons/biaoge.png",
+        "selectedIconPath": "icons/biaoge1.png"
+      }
+    ]
+  },
+  "debug": false,
+  "sitemapLocation": "sitemap.json"
+}

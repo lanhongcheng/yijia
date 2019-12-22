@@ -1,0 +1,15 @@
+<canvas class = "canvas" id="chart1"
+canvas-id="humidity"></canvas>
+
+<view class="hum">
+ <text>实时湿度：</text>
+  <text>{{chum}}</text>
+</view>
+
+<canvas class = "canvas" id="chart3"
+canvas-id="tempe"></canvas>
+
+<view class="hum">
+ <text>实时温度：</text>
+  <text>{{ctem}}</text>
+</view>

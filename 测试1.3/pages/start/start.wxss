@@ -1,0 +1,49 @@
+/* start.wxss */
+
+.intro {
+  padding: 24px 10%;
+  color: #424242;
+  line-height: 1.5;
+}
+
+.btn1{
+  width: 60%;
+}
+.Aa{
+  color:#1E90FF;
+  margin-top: 65px;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.Ad{
+  color:#1E90FF;
+  font-size: 30px;
+  font-weight: bolder;
+  margin-top:7px;
+}
+.Ab{
+  color:#00BFFF;
+  font-size: 28px;
+ margin-top:7px;
+}
+.Ae{
+  color: #8EE5EE;
+  font-size: 25px;
+  font-weight: bolder;
+ margin-top:7px;
+}
+.Ba{
+    color: #87CEFA;
+    font-size: 29px;
+ margin-top:7px;
+}
+.Bb{
+    color:rgb(37, 86, 134);
+    font-size: 29px;
+ margin-top:7px;
+}
+.Bc{
+    color:  #1E90FF;
+    font-size: 29px;
+ margin-top:7px;
+}
